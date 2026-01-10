@@ -41,26 +41,24 @@ MacroMaestro follows the GW2 piano layout logic:
 - AutoHotkey v1
 
 ### 2️⃣ Run
-Place `MacroMaestro.py` in a folder with your `.mid` files and run:
-
-```bash
-python MacroMaestro.py
+Place `PianoTomas.exe` in a folder with your `.mid` files and run:
 
 ### 3️⃣ Select MIDI
 
 The program will list all MIDI files:
-
+```bash
 1 - River Flows in You.mid
 2 - Through The Fire And Flames.mid
-
+```
 
 Type the number and press ENTER.
 
 ### 4️⃣ Done!
-
+```bash
 A .ahk file will be generated in the same folder.
+```
 
-🛠 Planned features
+## 🛠 Planned features
 
  Executable (.exe) release
 
@@ -93,5 +91,6 @@ If you enjoy the project:
 👉 Discord: orgulhopk
 
 ## ⚠ Disclaimer
+
 
 This project is not affiliated with ArenaNet.

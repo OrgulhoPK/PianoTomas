@@ -4,8 +4,8 @@
 
 It allows you to:
 - Convert MIDI files into playable AutoHotkey scripts
-- Play melodies and chords accurately in-game
-- Handle octave changes and chords (up to 4 notes)
+- Play melodies and chords accurately in-game  (F1-F5)
+- Handle octave changes and chords (up to 4 notes) 
 - Avoid unnecessary octave switching
 - Generate clean and readable `.ahk` files
 
@@ -15,7 +15,7 @@ It allows you to:
 
 MacroMaestro follows the GW2 piano layout logic:
 - Octave tabs
-- Chord limits
+- Chord limits 
 - Melodic-aware note selection
 - Accurate timing based on MIDI tempo
 
@@ -94,3 +94,4 @@ If you enjoy the project:
 
 
 This project is not affiliated with ArenaNet.
+
